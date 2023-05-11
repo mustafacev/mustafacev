@@ -52,17 +52,11 @@ I’m a software engineer with a background data analysis. My expertise in softw
 ## 📕 I'm currently learning these technologies
 
 <br>
-### Hobbies
+
+# Hobbies
 - 🎾 Tennis
 - ⛷️ Skiing
 - 🏕️ Camping
 - ⛰ Hiking
 
 
-## 📫 Contact me
-
-<p
-
-
-
-</p>
