@@ -49,7 +49,7 @@ I’m a software engineer with a background data analysis. My expertise in softw
   <img src="https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white">
 </p>
 
-<br>
+
 
 # Hobbies
 - 🎾 Tennis
