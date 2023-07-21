@@ -1,7 +1,7 @@
 
 # Hello There, I'm Mustafa 👋
 
-I’m a software engineer with a background data analysis. My expertise in software development methodologies, such as  Javascript, React, Mangodb, CSS, HTML allows me to work collaboratively with cross-functional teams to deliver high-quality software products that meet user needs.I am passionate about seeking out chances to create digital tools that improve people's lives.
+I’m a software engineer with a background in data analysis. My expertise in software development methodologies, such as  Javascript, React, MongoDB, CSS, and HTML allows me to work collaboratively with cross-functional teams to deliver high-quality software products that meet user needs. I am passionate about seeking out chances to create digital tools that improve people's lives.
 
 # 📊 GitHub Stats:
 <div align = "center" style = "width: 100%; display: flex; justify-content: center; align-items: center; flex-direction: column">
@@ -18,10 +18,6 @@ I’m a software engineer with a background data analysis. My expertise in softw
 </div>
 </div>
 
-<div style = "margin: 0 10px">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafacev&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
 
 </div>
 
