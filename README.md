@@ -5,16 +5,6 @@ I’m a software engineer with a background in data analysis. My expertise in so
 
 
 
-<div style = "margin: 0 10px">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafacev&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
-
-
-
-
-
-
 
 <br>
 
